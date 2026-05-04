@@ -1,0 +1,18 @@
+# Core ML
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+matplotlib
+# API
+fastapi
+uvicorn[standard]
+
+# UI
+streamlit
+requests
+
+# Notebook
+jupyter
